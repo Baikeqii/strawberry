@@ -1,0 +1,22 @@
+{
+  "name": "strawberryme",
+  "version": "1.0.1",
+  "description": "sweet",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baikeqii/strawberry.git"
+  },
+  "keywords": [
+    "fruit"
+  ],
+  "author": "earth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baikeqii/strawberry/issues"
+  },
+  "homepage": "https://github.com/Baikeqii/strawberry#readme"
+}
