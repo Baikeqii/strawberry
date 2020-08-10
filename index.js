@@ -4,5 +4,5 @@ const fruitOption = {
     'watermelon': 'green',
 }
 export const getFruitColor = color => {
-    return fruitOption[color] || '......'
+    return fruitOption[color] || '...sss...'
 }
